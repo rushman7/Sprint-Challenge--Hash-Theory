@@ -49,6 +49,8 @@ both `antelope` and `antelopes`.)
   machine diagram for the lion and label the transition events that
   cause state transitions.
 
+  <img src="../LionStateMachine.png">
+
 * The VT-100 terminal (console) outputs text to the screen as it
   receives it over the wire. One exception is that when it receives an
   ESC character (ASCII 27), it goes into a special mode where it looks
